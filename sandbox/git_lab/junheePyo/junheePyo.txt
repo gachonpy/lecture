@@ -3,7 +3,4 @@ fefkw
 HIHIHIHI
 안녕안녕안녕
 
-Hello Hello
-헬로헬로헬로
-
-하이하이하이하이
+Hello
