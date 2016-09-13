@@ -1,15 +1,16 @@
 Gachon CS50: 웹 프로그래밍(w/Python)
 ==============================
 
-본 강의는 가천대학교 ACE 사업단에서 추진한 "비전공자를 위한 프로그래밍 교육" 사업의 일환으로 제작된 "웹 프로그래밍" 강좌입니다. 
-Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 강의는 두번째 강좌에 해당합니다
-본 강의의 목적은 프로그래밍에 대한 기본적인 로직과 문법을 아는 수강생에게 실제 다른 사람이 활용가능한 서비스를 제작하게 지원하는 데 있습니다
-이를 위해 수강생은 기초적인 파이썬 프로그래밍 부터 코딩하기 위한 협업도구, 웹 프로그래밍 기초, Django 서버 프로그래밍, 클라우드 서비스 활용 방법 등 다양한 지식들을 습득하게 됩니다
-본 강의는 Modern한 웹 프로그래밍 개발 기법을 수강생들이 경험하게 하는데 가장 큰 초점을 맞추고 있습니다. 
-지루할 틈 없이 진행될 본 수업에 많은 관심 부탁드립니다
+- 본 강의는 가천대학교 ACE 사업단에서 추진한 "비전공자를 위한 프로그래밍 교육" 사업의 일환으로 제작된 "웹 프로그래밍" 강좌입니다.
+- Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 강의는 두번째 강좌에 해당합니다
+- 본 강의의 목적은 프로그래밍에 대한 기본적인 로직과 문법을 아는 수강생에게 실제 다른 사람이 활용가능한 서비스를 제작하게 지원하는 데 있습니다
+- 이를 위해 수강생은 기초적인 파이썬 프로그래밍 부터 코딩하기 위한 협업도구, 웹 프로그래밍 기초, Django 서버 프로그래밍, 클라우드 서비스 활용 방법 등 다양한 지식들을 습득하게 됩니다
+- 본 강의는 Modern한 웹 프로그래밍 개발 기법을 수강생들이 경험하게 하는데 가장 큰 초점을 맞추고 있습니다. 
+- 지루할 틈 없이 진행될 본 수업에 많은 관심 부탁드립니다
 
+## Gachon CS50 강의 구성
 - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-- Web Programming with Python
+- Web Programming with Python - 본 강좌
 
 강의 영상과 자료들은 순차적으로 업데이트 될 예정입니다.
 
@@ -27,18 +28,17 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
     - [Codecademy: Python](https://www.codecademy.com/learn/python)
     - CodeFights Python 토너먼트
     - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-    
-
 
 ### 2주차: Github
 - 강의 컨텐츠
-    -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), 강의영상
-    -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), 강의영상
-    -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), 강의영상
-    -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), 강의영상
-    -  Git Remote Repository & GitHub - 강의자료, 강의영상
-    -  Git Code Share Strategy - 강의자료, 강의영상
-- Quest
+    -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), [강의영상](https://youtu.be/JBN_hjgR1KQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), [강의영상](https://youtu.be/TGv-pvdCBWg?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), [강의영상](https://youtu.be/qO9VfdQdEio?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), [강의영상](https://youtu.be/mVvSeF6O8sM?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Remote Repository & GitHub - [강의자료](https://doc.co/uTyNyV/qj9tkx), [강의영상](https://youtu.be/49C7dJgG0EQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Code Share Strategy - [강의자료](https://doc.co/fjxoFX/qj9tkx), 강의영상
+- Lab
+    -  [Hello, Git](https://github.com/TeamLab/CS50_Web_Programming_Labs/blob/master/1_git/README.md)
 - Mission
     - [Codecademy :Learn Git](https://www.codecademy.com/learn/learn-git)
 - Resources
