@@ -60,6 +60,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
         -  생활코딩 강의 [Form 시작](https://www.youtube.com/watch?v=sFtZdlmgCVY&index=19&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 부터 [파일업로드](https://www.youtube.com/watch?v=XY5G4RN_LKg&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=27) 까지
 - Mission
     - [Codecademy HTML&CSS](https://www.codecademy.com/learn/web) 
+
 - Resources
     - [W3S HTML](http://www.w3schools.com/html/default.asp)
     - [W3S CSS](http://www.w3schools.com/css/default.asp)
