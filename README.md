@@ -44,16 +44,23 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 - Resources
     - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩, 2014)
 
-### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
-- Codecademy 
-    - [HTML&CSS](https://www.codecademy.com/learn/web)
-    - [Make a Website](https://www.codecademy.com/learn/make-a-website)
-- Reference Data 
+### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍(HTML & CSS)
+- 강의 컨텐츠
+    -  Web Programming Overview - [강의자료](https://doc.co/KLoh5B/qj9tkx)
+    -  Web Programming Tools - [강의자료](https://doc.co/nPtEpw/qj9tkx)
+    -  HTML Overview - [강의자료](https://doc.co/Lk9nE4/qj9tkx)
+    -  HTML: Text & List- [강의자료](https://doc.co/hmkCZ9/qj9tkx), [강의코드1](code/html/text), [강의코드2](code/html/List)
+    -  HTML: Images & Link - [강의자료](https://doc.co/Y9vwPZ/qj9tkx), [강의코드1](code/html/img), [강의코드2](code/html/link)
+    -  HTML: Table - [강의자료](https://doc.co/GspEqv/qj9tkx), [강의코드](code/html/table)
+    -  HTML: Form - [강의자료](https://doc.co/39g2G3/qj9tkx), [강의코드](code/html/form)
+
+- Resources
+    - [Codecademy HTML&CSS](https://www.codecademy.com/learn/web)
     - [W3S HTML](http://www.w3schools.com/html/default.asp)
     - [W3S CSS](http://www.w3schools.com/css/default.asp)
-- [HTML 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)(생활코딩, 2015)
-- [CSS 기본](https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)(생활코딩, 2016)
-- [CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)(생활코딩, 2014)
+    - [생활코딩 HTML 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
+    - [생활코딩 CSS 기본](https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)
+    - [생활코딩 CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)
 
 ### 4주차: 기초 웹 프로그래밍 II - Java Script
 - Codecademy 
