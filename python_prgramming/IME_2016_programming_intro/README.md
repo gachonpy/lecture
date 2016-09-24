@@ -5,7 +5,7 @@
 * 강의명: IME 프로그래밍 언어
 * 강의자명: 가천대학교 산업경영공학과 최성철 교수
 * Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50) 
-* 강의자료: [Docs.com](https://docs.com/choi-sungchul/7359) 
+* 강의자료: [Docs.com](https://doc.co/eRCeqh) 
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistnat
