@@ -9,7 +9,7 @@
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistnat
-* [김진홍](GITHUB 주소) (Email@Address.com, 학부생연구원)
+* TBD
 
 ## 강의 구성
 ### 1주차: 프로그래밍과 파이썬
