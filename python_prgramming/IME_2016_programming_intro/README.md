@@ -1,18 +1,5 @@
-2016 IME 프로그래래밍 언어: Intorducion to Programming with Python
+2016 IME 프로그래래밍 언어: Introduction to Programming with Python
 ==========================================================
-
-본 페이지는 2016년 가천대학교 산업경영공학과 계열교양으로 운영중인 프로그래밍 언어의 강의 구성을 기록하였습니다.
-본 강의는 가천대학교 ACE 사업단의 주요 과제인 Gachon CS50의 일환으로 제작되었습니다.  Gachon CS50의 구성은 아래와 같습니다.
-- [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-- [Operation Research with Python Programming](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
-
-또한 추가적으로 MOOC 강좌로 개설을 준비하고 있습니다.
-- [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-- [Operation Research with Python Programming](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
-- [Introduction to Data Science](https://github.com/TeamLab/data_school_at_gachon)
-- Large-Scale Data Analysis on Cloud
-
-강의 영상과 자료들은 순차적으로 업데이트 될 예정입니다.
 
 ## 강의 개요
 * 강의명: IME 프로그래밍 언어
@@ -21,33 +8,33 @@
 * 강의자료: [Docs.com](https://docs.com/choi-sungchul/7359) 
 * Email: teamlab.gachon@gmail.com
 
+## Teacher Assistnat
+* [김진홍](GITHUB 주소) (Email@Address.com, 학부생연구원)
+
 ## 강의 구성
 ### 1주차: 프로그래밍과 파이썬
 - 왜 우리는 프로그래밍을 배우는가? - [강의영상](https://vimeo.com/180827149/7f7b2664ee), [강의자료](https://doc.co/Bj76p1/EFk5T6)
 - 파이썬 소개 - [강의영상](https://vimeo.com/180852228/2312dc69e9), [강의자료](https://doc.co/pypHHp/EFk5T6)
 - 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/180852285/be157fe954), [강의자료](https://docs.com/choi-sungchul/2824/week-1-3?c=EFk5T6)
-- Lab: 파이썬 인터프리터 설치
-    - Python on Windows - 설치문서, 강의영상
-    - Python on Ubuntu - 설치문서, 강의영상
-    - Python on Mac OS - 설치문서, 강의영상
-- Lab: Atom 에디터 설치
-    - Atom on Windows - [설치문서](desc/atom_windows.md), 강의영상
-    - Atom on Ubuntu - [설치문서](desc/atom_ubuntu.md), 강의영상
-    - Atom on Mac OS - [설치문서](desc/atom_macos.md), 강의영상
+- Linux & Vi Editor - [강의자료](https://docs.com/choi-sungchul/2824/week-1-3?c=EFk5T6)
+- 참고: Python on Windows - 윈도우즈에 파이썬 설치하기
+    - Miniconda on windows - [강의영상](https://vimeo.com/184094537/5097c0366b)
+    - Atom on Windows - [강의영상](https://vimeo.com/184094536/9dfa58639b)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
-- 메모리와 변수 - [강의영상](https://vimeo.com/180852404/a1599a7f21), [강의자료](https://docs.com/choi-sungchul/8017/week-2-1?c=EFk5T6)
-- 기본 자료형과 연산 - [강의영상](https://vimeo.com/180852405/34826fa1a8), [강의자료](https://docs.com/choi-sungchul/7044/week-2-2?c=EFk5T6)
-- 자료형 변환 - [강의영상](https://vimeo.com/180852406/de9e4d59fd), [강의자료](https://docs.com/choi-sungchul/3473/week-2-3?c=EFk5T6)
-- Lab: 숙제 제출 방법 - 강의자료, 강의영상
-- Code Assignment: Arithmetic - 강의영상, 강의자료
-- Code Assignment: Basic Operations - 강의영상, 강의자료
+- 메모리와 변수 - [강의영상](https://www.youtube.com/watch?v=v5ttu6yB784&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=1), [강의자료](https://docs.com/choi-sungchul/8017/week-2-1?c=EFk5T6)
+- 기본 자료형과 연산 - [강의영상](https://www.youtube.com/watch?v=U50iy483ZqQ&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=2), [강의자료](https://docs.com/choi-sungchul/7044/week-2-2?c=EFk5T6)
+- 자료형 변환 - [강의영상](https://www.youtube.com/watch?v=5qP2_cqOB5A&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=3), [강의자료](https://docs.com/choi-sungchul/3473/week-2-3?c=EFk5T6)
+- Code Assignment: Basic Operations - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_4_basic_operations/lab_4_basic_operations.md)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
-- Console 다루기 - [강의영상](https://vimeo.com/181621955/d78ef805a7), [강의자료](https://docs.com/choi-sungchul/9016/week-3-1-console?c=EFk5T6)
-- Lab: 화씨 변환기 (Fahrenheit Converter) - 강의영상, [강의자료](https://doc.co/mjke6x/EFk5T6)
+- Console 다루기 - [강의영상](https://www.youtube.com/watch?v=yUdtb9SLkzA&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=4), [강의자료](https://docs.com/choi-sungchul/9016/week-3-1-console?c=EFk5T6)
+- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://www.youtube.com/watch?v=GzXy1V73C00&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=5), [강의자료](https://doc.co/mjke6x/EFk5T6)
+- Function Concept - [강의영상](https://www.youtube.com/watch?v=L5QADkkHIjQ&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=6), [강의자료](https://docs.com/choi-sungchul/6397/week-5-1-function-concept-i?c=EFk5T6)
 - List Data Type - [강의영상](https://vimeo.com/181621956/ecbb4d0a26), [강의자료](https://docs.com/choi-sungchul/6366/week-3-3-list-data-type?c=EFk5T6)
-- Code Assignment:
+- How to debug code - [강의영상](https://vimeo.com/180864932/bb37df35bc), [강의자료](https://docs.com/choi-sungchul/3642/week-4-6-how-to-debug-code?c=EFk5T6)
+- Code Assignment: Exam Grader - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_5_examgrader/lab_5_exam_grader.md)
+- Code Assignment: 화씨 변환기 - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_6_fahrenheit_converter/lab_6_fconverter.md)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - Condition - [강의영상](https://vimeo.com/180864670/d591d1c767), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
@@ -55,10 +42,8 @@
 - Loop - [강의영상](https://vimeo.com/180864673/b348758662), [강의자료](https://docs.com/choi-sungchul/4484/week-4-3-loop?c=EFk5T6)
 - Lab: 구구단 계산기 - 강의영상
 - Lab: Condition and Loop - 강의영상, [강의자료](https://doc.co/TXJguB/EFk5T6)
-- How to debug code - [강의영상](https://vimeo.com/180864932/bb37df35bc), [강의자료](https://docs.com/choi-sungchul/3642/week-4-6-how-to-debug-code?c=EFk5T6)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- Function Concept I - [강의영상](https://vimeo.com/181367144/710c7fc6e2), [강의자료](https://docs.com/choi-sungchul/6397/week-5-1-function-concept-i?c=EFk5T6)
 - Function Concept II - [강의영상](https://vimeo.com/181622471/3f1bbf8479), [강의자료](https://docs.com/choi-sungchul/8397/week-5-2-function-concept-ii?c=EFk5T6)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/181622470/56a56d3af5), [강의자료](https://docs.com/choi-sungchul/4133?c=EFk5T6)
 - Code Assignment:
