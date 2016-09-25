@@ -40,7 +40,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), [강의영상](https://youtu.be/qO9VfdQdEio?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), [강의영상](https://youtu.be/mVvSeF6O8sM?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Git Remote Repository & GitHub - [강의자료](https://doc.co/uTyNyV/qj9tkx), [강의영상](https://youtu.be/49C7dJgG0EQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-    -  Git Cowork Strategy- [강의자료](https://doc.co/fjxoFX/qj9tkx), [강의영상](https://www.youtube.com/watch?v=p7ld5zQr5jc&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=6)
+    -  Git Cowork Strategy- [강의자료](https://doc.co/fjxoFX/qj9tkx), [강의영상1](https://www.youtube.com/watch?v=skE4GVKBTZQ&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=6), [강의영상2](https://www.youtube.com/watch?v=p7ld5zQr5jc&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=6)
 - Lab
     -  [Hello, Git](https://github.com/TeamLab/CS50_Web_Programming_Labs/blob/master/1_git/README.md)
 - Mission
