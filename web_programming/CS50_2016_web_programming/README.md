@@ -21,8 +21,8 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistant
-* [김진홍](https://github.com/jinongkim) (xox8498@gmail.com, 학부생연구원)
-* 
+* [김진홍](https://github.com/jinongkim) (xox8498@gmail.com, 학부생연구원 at TeamLab)
+* [서자영](https://github.com/jayoungseo) (tjwkdud0423@gmail.com, 학부생연구원 at TeamLab)
 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
