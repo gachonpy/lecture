@@ -41,10 +41,12 @@
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - Condition - [강의영상](https://vimeo.com/180864670/d591d1c767), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
-- Lab: 당신은 무슨 학교 다니세요? - 강의영상
+- Lab: 당신은 무슨 학교 다니세요? - 강의영상, [강의자료](https://doc.co/ukigBi/eRCeqh)
 - Loop - [강의영상](https://vimeo.com/180864673/b348758662), [강의자료](https://docs.com/choi-sungchul/4484/week-4-3-loop?c=EFk5T6)
-- Lab: 구구단 계산기 - 강의영상
-- Lab: Condition and Loop - 강의영상, [강의자료](https://doc.co/TXJguB/EFk5T6)
+- Lab: 구구단 계산기 - 강의영상, [강의자료](https://doc.co/j8LVwB/eRCeqh)
+    - Reverse Sentence - [강의영상](https://www.youtube.com/watch?v=-xAZwzRKphI&index=7&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
+    - binary converter - [강의영상](https://www.youtube.com/watch?v=OKD8aUDgfn0&index=8&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
+- Lab: Condition and Loop - [강의영상](https://www.youtube.com/watch?v=1WPIE_YSqms&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=9), [강의자료](https://doc.co/TXJguB/EFk5T6)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - Function Concept II - [강의영상](https://vimeo.com/181622471/3f1bbf8479), [강의자료](https://docs.com/choi-sungchul/8397/week-5-2-function-concept-ii?c=EFk5T6)
