@@ -40,7 +40,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), [강의영상](https://youtu.be/qO9VfdQdEio?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), [강의영상](https://youtu.be/mVvSeF6O8sM?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Git Remote Repository & GitHub - [강의자료](https://doc.co/uTyNyV/qj9tkx), [강의영상](https://youtu.be/49C7dJgG0EQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-    -  Git Code Share Strategy - [강의자료](https://doc.co/fjxoFX/qj9tkx), 강의영상
+    -  Git Cowork Strategy- [강의자료](https://doc.co/fjxoFX/qj9tkx), [강의영상](https://www.youtube.com/watch?v=p7ld5zQr5jc&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=6)
 - Lab
     -  [Hello, Git](https://github.com/TeamLab/CS50_Web_Programming_Labs/blob/master/1_git/README.md)
 - Mission
@@ -51,17 +51,26 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍(HTML & CSS)
 - 강의 컨텐츠
     -  Web Programming Overview - [강의자료](https://doc.co/KLoh5B/qj9tkx)
-    -  Web Programming Tools - [강의자료](https://doc.co/nPtEpw/qj9tkx)
-    -  HTML Overview - [강의자료](https://doc.co/Lk9nE4/qj9tkx)
-        -  생활코딩 강의 [1](https://www.youtube.com/watch?v=33DjsANwlJk&index=2&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [2](https://www.youtube.com/watch?v=jSJM9iOiQ1g&index=3&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [3](https://www.youtube.com/watch?v=zQTgBEWYbug&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=4), [4](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
-    -  HTML: Text & List- [강의자료](https://doc.co/hmkCZ9/qj9tkx), [강의코드1](code/html/text), [강의코드2](code/html/List)
-        -  생활코딩 강의 [p](https://www.youtube.com/watch?v=z7DiQe4wnLc&index=13&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [br](https://www.youtube.com/watch?v=HkX_3Kk5haE&index=14&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
-    -  HTML: Images & Link - [강의자료](https://doc.co/Y9vwPZ/qj9tkx), [강의코드1](code/html/img), [강의코드2](code/html/link)
-        -  생활코딩 강의 [Images](https://www.youtube.com/watch?v=V_ogge8xfDs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=15), [Link](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
-    -  HTML: Table - [강의자료](https://doc.co/GspEqv/qj9tkx), [강의코드](code/html/table)
-        - 생활코딩 강의 [Table 1](https://www.youtube.com/watch?v=XUTFXu0f4qo&index=16&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [Table 2](https://www.youtube.com/watch?v=H84fuDj1Jxs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=17), [Table 3](https://www.youtube.com/watch?v=i7oKd-eKvdw&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=18) 
-    -  HTML: Form - [강의자료](https://doc.co/39g2G3/qj9tkx), [강의코드](code/html/form)
-        -  생활코딩 강의 [Form 시작](https://www.youtube.com/watch?v=sFtZdlmgCVY&index=19&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 부터 [파일업로드](https://www.youtube.com/watch?v=XY5G4RN_LKg&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=27) 까지
+    -  Web Programming Tools - [강의자료](https://doc.co/nPtEpw/qj9tkx), [강의영상](https://www.youtube.com/watch?v=hFizLMlEy6g&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=7)
+    -  HTML (Hyper Text Markup Language)
+        -  HTML Overview - [강의자료](https://doc.co/Lk9nE4/qj9tkx), [강의영상](https://www.youtube.com/watch?v=XwlLAtZQAeQ&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=8)
+            -  생활코딩 강의 [1](https://www.youtube.com/watch?v=33DjsANwlJk&index=2&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [2](https://www.youtube.com/watch?v=jSJM9iOiQ1g&index=3&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [3](https://www.youtube.com/watch?v=zQTgBEWYbug&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=4), [4](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
+        -  HTML: Text & List- [강의자료](https://doc.co/hmkCZ9/qj9tkx), [강의코드1](code/html/text), [강의코드2](code/html/List)
+            -  생활코딩 강의 [p](https://www.youtube.com/watch?v=z7DiQe4wnLc&index=13&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [br](https://www.youtube.com/watch?v=HkX_3Kk5haE&index=14&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
+        -  HTML: Images & Link - [강의자료](https://doc.co/Y9vwPZ/qj9tkx), [강의코드1](code/html/img), [강의코드2](code/html/link)
+            -  생활코딩 강의 [Images](https://www.youtube.com/watch?v=V_ogge8xfDs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=15), [Link](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
+        -  HTML: Table - [강의자료](https://doc.co/GspEqv/qj9tkx), [강의코드](code/html/table)
+            - 생활코딩 강의 [Table 1](https://www.youtube.com/watch?v=XUTFXu0f4qo&index=16&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [Table 2](https://www.youtube.com/watch?v=H84fuDj1Jxs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=17), [Table 3](https://www.youtube.com/watch?v=i7oKd-eKvdw&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=18) 
+        -  HTML: Form - [강의자료](https://doc.co/39g2G3/qj9tkx), [강의코드](code/html/form)
+            -  생활코딩 강의 [Form 시작](https://www.youtube.com/watch?v=sFtZdlmgCVY&index=19&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 부터 [파일업로드](https://www.youtube.com/watch?v=XY5G4RN_LKg&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=27) 까지
+    - CSS (Cascading Style Sheet)
+        - CSS Overview - [강의자료](https://doc.co/zfhMRN/qj9tkx)
+        - Selector - [강의자료](https://doc.co/QVuTy6/qj9tkx)
+- Lab
+    -  [Hello, HTML](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2001.%20Hello%2C%20HTML)
+    -  [Hello, CSS](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2002.%20Hello%2C%20CSS)
+    -  [Publishing CSS](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2003.%20Publishing%20CSS)
+
 - Mission
     - [Codecademy HTML&CSS](https://www.codecademy.com/learn/web) 
 

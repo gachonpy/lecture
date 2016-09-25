@@ -9,7 +9,10 @@
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistnat
-* TBD
+* [장시온](https://github.com/janguck) (wayterren@gmail.com, 학부생연구원 at TeamLab)
+* [장예훈](https://github.com/YeHoonJang)(jangyh0420@gmail.com, 학부생)
+* [김지희](https://github.com/kjihee)(aszx1220@gmail.com, 학부생)
+* [김윤진](https://github.com/KimyoonJIn)(soosg270@gmail.com, 학부생)
 
 ## 강의 구성
 ### 1주차: 프로그래밍과 파이썬
