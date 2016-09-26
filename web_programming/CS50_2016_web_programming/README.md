@@ -65,7 +65,15 @@ Gachon CS50: 웹 프로그래밍(w/Python)
             -  생활코딩 강의 [Form 시작](https://www.youtube.com/watch?v=sFtZdlmgCVY&index=19&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 부터 [파일업로드](https://www.youtube.com/watch?v=XY5G4RN_LKg&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=27) 까지
     - CSS (Cascading Style Sheet)
         - CSS Overview - [강의자료](https://doc.co/zfhMRN/qj9tkx)
+            - 생활코딩 강의 [HTML과 CSS가 만나는 법](https://opentutorials.org/course/2418/13500)
         - Selector - [강의자료](https://doc.co/QVuTy6/qj9tkx)
+            - 생활코딩 강의 [선택자](https://opentutorials.org/course/2418/13500)
+        - 레이아웃 - [강의자료]()
+            - 생활코딩 강의 [레이아웃](https://opentutorials.org/course/2418/13402)
+        - 폰트와 그래픽 - [강의자료]()
+            - 생활코딩 강의 [폰트](https://opentutorials.org/course/2418/13356)
+            - 생활코딩 강의 [그래픽](https://opentutorials.org/course/2418/13591)
+
 - Lab
     -  [Hello, HTML](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2001.%20Hello%2C%20HTML)
     -  [Hello, CSS](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2002.%20Hello%2C%20CSS)
