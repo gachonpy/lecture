@@ -34,8 +34,8 @@
 - Console 다루기 - [강의영상](https://www.youtube.com/watch?v=yUdtb9SLkzA&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=4), [강의자료](https://docs.com/choi-sungchul/9016/week-3-1-console?c=EFk5T6)
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://www.youtube.com/watch?v=GzXy1V73C00&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=5), [강의자료](https://doc.co/mjke6x/EFk5T6)
 - Function Concept - [강의영상](https://www.youtube.com/watch?v=L5QADkkHIjQ&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=6), [강의자료](https://docs.com/choi-sungchul/6397/week-5-1-function-concept-i?c=EFk5T6)
-- List Data Type - [강의영상](https://vimeo.com/181621956/ecbb4d0a26), [강의자료](https://docs.com/choi-sungchul/6366/week-3-3-list-data-type?c=EFk5T6)
-- How to debug code - [강의영상](https://vimeo.com/180864932/bb37df35bc), [강의자료](https://docs.com/choi-sungchul/3642/week-4-6-how-to-debug-code?c=EFk5T6)
+- List Data Type - [강의영상](https://www.youtube.com/watch?v=awyTs1j2NEI&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=18), [강의자료](https://docs.com/choi-sungchul/6366/week-3-3-list-data-type?c=EFk5T6)
+- How to debug code - [강의영상](https://www.youtube.com/watch?v=PPLDwl4FBJg&index=19&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://docs.com/choi-sungchul/3642/week-4-6-how-to-debug-code?c=EFk5T6)
 - Code Assignment: Exam Grader - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_5_examgrader/lab_5_exam_grader.md)
 - Code Assignment: 화씨 변환기 - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_6_fahrenheit_converter/lab_6_fconverter.md)
 
@@ -43,36 +43,36 @@
 - Condition - [강의영상](https://vimeo.com/180864670/d591d1c767), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
 - Lab: 당신은 무슨 학교 다니세요? - 강의영상, [강의자료](https://doc.co/ukigBi/eRCeqh)
 - Loop - [강의영상](https://vimeo.com/180864673/b348758662), [강의자료](https://docs.com/choi-sungchul/4484/week-4-3-loop?c=EFk5T6)
-- Lab: 구구단 계산기 - 강의영상, [강의자료](https://doc.co/j8LVwB/eRCeqh)
+- Lab: Loop Code Review - [강의자료](https://doc.co/j8LVwB/eRCeqh)
+    - 구구단 계산기 - [강의영상](https://www.youtube.com/watch?v=dss5dI-2iRU&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=17)
     - Reverse Sentence - [강의영상](https://www.youtube.com/watch?v=-xAZwzRKphI&index=7&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
     - binary converter - [강의영상](https://www.youtube.com/watch?v=OKD8aUDgfn0&index=8&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
-- Lab: Condition and Loop - [강의영상](https://www.youtube.com/watch?v=1WPIE_YSqms&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=9), [강의자료](https://doc.co/TXJguB/EFk5T6)
+- Lab: Condition and Loop - [강의자료](https://doc.co/TXJguB/EFk5T6)
+    - Guess Number - [강의영상](https://www.youtube.com/watch?v=1WPIE_YSqms&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=9), 
+    - 연속적인 구구단 계산기 - [강의영상](https://www.youtube.com/watch?v=Q1DWYHnNb3M&index=16&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)      
 
-### 5주차: 함수와 파이썬 코드 작성연습
-- Function Concept II - [강의영상](https://vimeo.com/181622471/3f1bbf8479), [강의자료](https://docs.com/choi-sungchul/8397/week-5-2-function-concept-ii?c=EFk5T6)
-- 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/181622470/56a56d3af5), [강의자료](https://docs.com/choi-sungchul/4133?c=EFk5T6)
-- Code Assignment:
+### 5주차: 문자열 다루기 (String) & 함수와 파이썬 코드 작성연습
+- 문자열 다루기 (String) - [강의영상](https://www.youtube.com/watch?v=vGcGXe1vE2o&index=14&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/Y4h7dX/eRCeqh)
+- Lab: Yesterday Letter Counter - [강의영상](https://www.youtube.com/watch?v=JOmWJQ1BlgM&index=14&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/xtswPq/EFk5T6)
+- Function Concept II - [강의영상](https://vimeo.com/181622471/3f1bbf8479), [강의자료](https://doc.co/JGpJSi/eRCeqh)
+- 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/181622470/56a56d3af5), [강의자료](https://doc.co/jMZDoF/eRCeqh)
+- Code Assignment: Baseball Game - 설명영상
 
-### 6주차: 문자열 다루기 (String)
-- 문자열 다루기 (String) - [강의영상](https://vimeo.com/180852569/fdd8a6c1ce), 강의자료
-- Lab: Yesterday Letter Counter - 강의영상, [강의자료](https://doc.co/xtswPq/EFk5T6)
-- Assignment: Baseball Game - 설명영상
-
-### 7주차: 자료 구조 (Data Structure)
+### 6주차: 자료 구조 (Data Structure)
 - 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/181622626/8b52be5c1c), [강의자료](https://docs.com/choi-sungchul/4133?c=EFk5T6)
 - Stack & Queue - [강의영상](https://vimeo.com/181622625/bf15043832), [강의자료](https://docs.com/choi-sungchul/1667/week-7-2-stack-queue?c=EFk5T6)
 - Tuple & Set (Data Structure) - 강의영상, [강의자료](https://docs.com/choi-sungchul/8314/week-7-3-tuple-set?c=EFk5T6)
 - 자료구조 (Data Structure) - 강의영상, [강의자료](https://docs.com/choi-sungchul/6063/week-7-4-data-structure?c=EFk5T6)
-
 - Lab: Command Counter - 강의영상
 - Assignment: Morse Code - 설명영상
 
-### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
+### 7주차:  파이썬같은 코드 작성하기 (Pythonic Code)
 - Pythonic Code Overview - [강의영상](https://vimeo.com/181268018/94c984f18c), [강의자료](https://docs.com/choi-sungchul/8538/week-8-1-pythonic-code-overview?c=EFk5T6)
 - Split & Join - [강의영상](https://vimeo.com/181268017/12e9971bb3), [강의자료](https://docs.com/choi-sungchul/7379/week-8-2-split-join?c=EFk5T6)
 - List Comprehension - [강의영상](https://vimeo.com/181268020/61e13aa55d), [강의자료](https://docs.com/choi-sungchul/7934/week-8-3-list-comprehension?c=EFk5T6)
 - Enumerate & Zip - [강의영상](https://vimeo.com/181268019/37892a022d), [강의자료](https://docs.com/choi-sungchul/5388/week-8-4-enumerate-zip?c=EFk5T6)
-- Midterm Problem Set
+
+### 8주차: Midterm Brake
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - Objective-Oriented Programming - 강의영상, 강의자료
