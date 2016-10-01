@@ -40,9 +40,9 @@
 - Code Assignment: 화씨 변환기 - [Description](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_6_fahrenheit_converter/lab_6_fconverter.md)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
-- Condition - [강의영상](https://vimeo.com/180864670/d591d1c767), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
-- Lab: 당신은 무슨 학교 다니세요? - 강의영상, [강의자료](https://doc.co/ukigBi/eRCeqh)
-- Loop - [강의영상](https://vimeo.com/180864673/b348758662), [강의자료](https://docs.com/choi-sungchul/4484/week-4-3-loop?c=EFk5T6)
+- Condition - [강의영상](https://www.youtube.com/watch?v=Ty2RtlNb2bM&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=22), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
+- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://www.youtube.com/watch?v=kwhlBT96nUc&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=21), [강의자료](https://doc.co/ukigBi/eRCeqh)
+- Loop - [강의영상](https://www.youtube.com/watch?v=N5oYYeMVdjw&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=20), [강의자료](https://docs.com/choi-sungchul/4484/week-4-3-loop?c=EFk5T6)
 - Lab: Loop Code Review - [강의자료](https://doc.co/j8LVwB/eRCeqh)
     - 구구단 계산기 - [강의영상](https://www.youtube.com/watch?v=dss5dI-2iRU&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=17)
     - Reverse Sentence - [강의영상](https://www.youtube.com/watch?v=-xAZwzRKphI&index=7&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
