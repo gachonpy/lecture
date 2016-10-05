@@ -61,12 +61,13 @@
 ### 6주차: 자료 구조 (Data Structure)
 - 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/181622626/8b52be5c1c), [강의자료](https://docs.com/choi-sungchul/4133?c=EFk5T6)
 - Stack & Queue - [강의영상](https://vimeo.com/181622625/bf15043832), [강의자료](https://docs.com/choi-sungchul/1667/week-7-2-stack-queue?c=EFk5T6)
-- Tuple & Set (Data Structure) - 강의영상, [강의자료](https://docs.com/choi-sungchul/8314/week-7-3-tuple-set?c=EFk5T6)
-- 자료구조 (Data Structure) - 강의영상, [강의자료](https://docs.com/choi-sungchul/6063/week-7-4-data-structure?c=EFk5T6)
-- Lab: Command Counter - 강의영상
+- Tuple & Set - [강의영상](https://vimeo.com/184666895/851e1fcc9d), [강의자료](https://docs.com/choi-sungchul/8314/week-7-3-tuple-set?c=EFk5T6)
+- Dict (Dictionary) - [강의영상](https://www.youtube.com/watch?v=RUrudMlyNo8&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=19), [강의자료](https://docs.com/choi-sungchul/6063/week-7-4-data-structure?c=EFk5T6)
+- Lab: Command Counter - [강의영상](https://www.youtube.com/watch?v=CaxVjJ36I30&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=20)
 - Assignment: Morse Code - 설명영상
 
 ### 7주차:  파이썬같은 코드 작성하기 (Pythonic Code)
+- Pythonic Code ALL - [강의영상](https://www.youtube.com/watch?v=dFjuSonfEQI&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=21)
 - Pythonic Code Overview - [강의영상](https://vimeo.com/181268018/94c984f18c), [강의자료](https://docs.com/choi-sungchul/8538/week-8-1-pythonic-code-overview?c=EFk5T6)
 - Split & Join - [강의영상](https://vimeo.com/181268017/12e9971bb3), [강의자료](https://docs.com/choi-sungchul/7379/week-8-2-split-join?c=EFk5T6)
 - List Comprehension - [강의영상](https://vimeo.com/181268020/61e13aa55d), [강의자료](https://docs.com/choi-sungchul/7934/week-8-3-list-comprehension?c=EFk5T6)
