@@ -25,7 +25,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 * [서자영](https://github.com/jayoungseo) (tjwkdud0423@gmail.com, 학부생연구원 at TeamLab)
 
 ## 강의 구성
-### 1주차: 웹 프로그래밍 개요와 Python Revisited
+### Chapter 1: 웹 프로그래밍 개요와 Python Revisited
 - 강의 컨텐츠
     - 웹 프로그래밍 개요 - [강의자료](https://doc.co/fPtBHX/qj9tkx)
 - Resources
@@ -33,7 +33,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - CodeFights Python 토너먼트
     - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
 
-### 2주차: Github
+### Chapter 2: Github
 - 강의 컨텐츠
     -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), [강의영상](https://youtu.be/JBN_hjgR1KQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), [강의영상](https://youtu.be/TGv-pvdCBWg?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
@@ -48,31 +48,33 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 - Resources
     - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩, 2014)
 
-### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍(HTML & CSS)
+### Chapter 3: 웹 프로그래밍의 이해와 기초 웹 프로그래밍(HTML & CSS)
 - 강의 컨텐츠
     -  Web Programming Overview - [강의자료](https://doc.co/KLoh5B/qj9tkx)
     -  Web Programming Tools - [강의자료](https://doc.co/nPtEpw/qj9tkx), [강의영상](https://www.youtube.com/watch?v=hFizLMlEy6g&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=7)
     -  HTML (Hyper Text Markup Language)
         -  HTML Overview - [강의자료](https://doc.co/Lk9nE4/qj9tkx), [강의영상](https://www.youtube.com/watch?v=XwlLAtZQAeQ&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=8)
             -  생활코딩 강의 [1](https://www.youtube.com/watch?v=33DjsANwlJk&index=2&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [2](https://www.youtube.com/watch?v=jSJM9iOiQ1g&index=3&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [3](https://www.youtube.com/watch?v=zQTgBEWYbug&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=4), [4](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
-        -  HTML: Text & List- [강의자료](https://doc.co/hmkCZ9/qj9tkx), [강의코드1](code/html/text), [강의코드2](code/html/List)
+        -  HTML: Text & List- [강의자료](https://doc.co/hmkCZ9/qj9tkx), [강의코드1](code/html/text), [강의코드2](code/html/List), [강의영상](https://www.youtube.com/watch?v=Jkgt-tMj8fc&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=10)
             -  생활코딩 강의 [p](https://www.youtube.com/watch?v=z7DiQe4wnLc&index=13&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [br](https://www.youtube.com/watch?v=HkX_3Kk5haE&index=14&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
         -  HTML: Images & Link - [강의자료](https://doc.co/Y9vwPZ/qj9tkx), [강의코드1](code/html/img), [강의코드2](code/html/link)
             -  생활코딩 강의 [Images](https://www.youtube.com/watch?v=V_ogge8xfDs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=15), [Link](https://www.youtube.com/watch?v=AE7foaifXMU&index=5&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)
         -  HTML: Table - [강의자료](https://doc.co/GspEqv/qj9tkx), [강의코드](code/html/table)
             - 생활코딩 강의 [Table 1](https://www.youtube.com/watch?v=XUTFXu0f4qo&index=16&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB), [Table 2](https://www.youtube.com/watch?v=H84fuDj1Jxs&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=17), [Table 3](https://www.youtube.com/watch?v=i7oKd-eKvdw&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=18) 
-        -  HTML: Form - [강의자료](https://doc.co/39g2G3/qj9tkx), [강의코드](code/html/form)
+        -  HTML: Form - [강의자료](https://doc.co/39g2G3/qj9tkx), [강의코드](code/html/form), [강의영상](https://www.youtube.com/watch?v=frtAHHE6s8I&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=11)
             -  생활코딩 강의 [Form 시작](https://www.youtube.com/watch?v=sFtZdlmgCVY&index=19&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB) 부터 [파일업로드](https://www.youtube.com/watch?v=XY5G4RN_LKg&list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB&index=27) 까지
     - CSS (Cascading Style Sheet)
-        - CSS Overview - [강의자료](https://doc.co/zfhMRN/qj9tkx)
+        - CSS Overview - [강의자료](https://doc.co/zfhMRN/qj9tkx), [강의영상](https://www.youtube.com/watch?v=OQMmLKtTyw4&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=12)
             - 생활코딩 강의 [HTML과 CSS가 만나는 법](https://opentutorials.org/course/2418/13500)
-        - Selector - [강의자료](https://doc.co/QVuTy6/qj9tkx)
+        - Selector - [강의자료](https://doc.co/QVuTy6/qj9tkx), [강의영상](https://www.youtube.com/watch?v=JaFEQdr-AQ8&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=13)
             - 생활코딩 강의 [선택자](https://opentutorials.org/course/2418/13500)
-        - 레이아웃 - [강의자료]()
+        - Box Model - [강의영상](https://www.youtube.com/watch?v=72_saCf5W0U&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=14)
+        - 레이아웃 - [강의영상](https://www.youtube.com/watch?v=i7uqGTP2PoI&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=15)
             - 생활코딩 강의 [레이아웃](https://opentutorials.org/course/2418/13402)
-        - 폰트와 그래픽 - [강의자료]()
+        - 폰트와 그래픽 
             - 생활코딩 강의 [폰트](https://opentutorials.org/course/2418/13356)
             - 생활코딩 강의 [그래픽](https://opentutorials.org/course/2418/13591)
+    -  공동작업: GitHub with JetBrain IDE - [강의영상](https://www.youtube.com/watch?v=hWmk0iTLJJo&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=16)
 
 - Lab
     -  [Hello, HTML](https://github.com/TeamLab/CS50_Web_Programming_Labs/tree/master/2_HTML_CSS/Quest%2001.%20Hello%2C%20HTML)
@@ -89,16 +91,18 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - [생활코딩 CSS 기본](https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)
     - [생활코딩 CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)
 
-### 4주차: 기초 웹 프로그래밍 II - Java Script
-- Codecademy 
-    - [Java Script](https://www.codecademy.com/learn/javascript)
-- Reference Data 
+### Chapter 4: 기초 웹 프로그래밍 II - Java Script
+
+
+- Mission
+    - [Codecademy Java Script](https://www.codecademy.com/learn/learn-javascript) 
+
+- Resources
+    - [Codecademy Java Script](https://www.codecademy.com/learn/javascript)
     - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
-- Java Script 강의
 	- [JS 오리엔테이션](https://www.youtube.com/playlist?list=PLuHgQVnccGMD4YCWd138Yt7UBjC8Ll6eS)(생활코딩, 2014)
     - [JS 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)(생활코딩, 2014)
     - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
-- CodeFights JavaScript 토너먼트
 
 ### 5주차: Bootstrap 
 - Reference Data
