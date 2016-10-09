@@ -93,11 +93,23 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 
 ### Chapter 4: 기초 웹 프로그래밍 II - Java Script
 - 강의 컨텐츠
-    -  Java Script Overview - [강의자료]()
+    -  Java Script Overview - [강의자료](https://doc.co/JdRfRo/qj9tkx)
+        -  생활코딩 강의 - [언어소개](https://opentutorials.org/course/743/4650)
     -  [Node.JS 설치 on Windows](http://playgroundblog.tistory.com/146)
-    -  Java Script Basic - [강의자료]()
-    -  Event Handlding - [강의자료]()
-    -  DOM Handling - [강의자료]()
+    -  Java Script Basic 
+        - Variable - [강의자료](https://doc.co/c4zNDh/qj9tkx)
+            - 생활코딩 강의 - [숫자와 문자](https://opentutorials.org/course/743/4647), [변수](https://opentutorials.org/course/743/4673)
+        - Array - [강의자료](https://doc.co/WvFWTY/qj9tkx)
+            - 생활코딩 강의 - [배열](https://opentutorials.org/course/743/4736)
+        - Condition & Loop - [강의자료](https://doc.co/qy1ZDi/qj9tkx)
+            - 생활코딩 강의 - [비교](https://opentutorials.org/course/743/4722), [조건문](https://opentutorials.org/course/743/4722), [반복문](https://opentutorials.org/course/743/4722)
+        - Object - [강의자료](https://doc.co/i7ceXv/qj9tkx)
+            - 생활코딩 강의 - [객체](https://opentutorials.org/course/743/6491)
+        - Function - [강의자료](https://doc.co/CEeD4K/qj9tkx)
+            - 생활코딩 강의 - [함수](https://opentutorials.org/course/743/4729)
+    -  Client Side Java Script 
+        -  Event Handlding - [TO BE UPDATED]()
+        -  DOM Handling - [TO BE UPDATED]()
 
 - Mission
     - [Codecademy Java Script](https://www.codecademy.com/learn/learn-javascript) 
