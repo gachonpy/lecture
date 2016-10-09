@@ -92,7 +92,12 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - [생활코딩 CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)
 
 ### Chapter 4: 기초 웹 프로그래밍 II - Java Script
-
+- 강의 컨텐츠
+    -  Java Script Overview - [강의자료]()
+    -  [Node.JS 설치 on Windows](http://playgroundblog.tistory.com/146)
+    -  Java Script Basic - [강의자료]()
+    -  Event Handlding - [강의자료]()
+    -  DOM Handling - [강의자료]()
 
 - Mission
     - [Codecademy Java Script](https://www.codecademy.com/learn/learn-javascript) 
