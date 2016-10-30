@@ -66,7 +66,7 @@
 - Lab: Command Counter - [강의영상](https://www.youtube.com/watch?v=CaxVjJ36I30&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=20)
 - Assignment: Morse Code - 설명영상
 
-### 7주차:  파이썬같은 코드 작성하기 (Pythonic Code)
+### 7주차:  파이썬다운 코드 작성하기 (Pythonic Code)
 - Pythonic Code ALL - [강의영상](https://www.youtube.com/watch?v=dFjuSonfEQI&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=21)
 - Pythonic Code Overview - [강의영상](https://vimeo.com/181268018/94c984f18c), [강의자료](https://docs.com/choi-sungchul/8538/week-8-1-pythonic-code-overview?c=EFk5T6)
 - Split & Join - [강의영상](https://vimeo.com/181268017/12e9971bb3), [강의자료](https://docs.com/choi-sungchul/7379/week-8-2-split-join?c=EFk5T6)
@@ -76,41 +76,46 @@
 ### 8주차: Midterm Brake
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
-- Objective-Oriented Programming - 강의영상, 강의자료
-- Modules & Packages - 강의영상, 강의자료
-- Lab: Your OO World - 강의영상, 강의자료
+- Objective-Oriented Programming Overview - 강의영상, [강의자료](https://doc.co/yXcRGm/eRCeqh)
+- Objects in Python - 강의영상, [강의자료](https://doc.co/U1782r/eRCeqh)
+- Lab: Note and Notebook - 강의영상, 강의자료
+- OOP characteristics - 강의영상, [강의자료](https://doc.co/bFqNQT/eRCeqh)
 
-### 10주차: 쓰레드와 프로세스 (Thread and Process)
+### 10주차: 모듈과 패키지 (Module & Packages)
+- Overview - 강의영상, 강의자료
+- Modules과 Namespace - 강의영상, 강의자료
+- Package 만들기 - 강의영상, 강의자료
+- 가상환경과 Package 설치 - 강의영상, 강의자료
+
+### 11주차: 쓰레드와 프로세스 (Thread and Process)
 - Thread & Process - 강의영상, 강의자료
 - Lab: Multiple Downloader - 강의영상, 강의자료
 
-### 11주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
+### 12주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
 - File Input & Ouput - 강의영상, 강의자료
 - Lab: File Read & Write - 강의영상, 강의자료
 - Comma Separate Values - 강의영상, 강의자료
 - Lab: SeongNam Data - 강의영상
 
-### 12주차: Web Scraping
+### 13주차: Web Scraping
 - Web 이해하기 - 강의영상, 강의자료
 - HTML 데이터 다루기 - 강의영상, 강의자료
 - Lab: 정규식으로 데이터 Parsing 하기 - 강의영상
 - BeautifulSoup 다루기 - 강의영상, 강의자료
 
-### 13주차: XML과 JSON (eXtensible Markup Languages and JSON)
+### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
 - XML 이해하기 - 강의영상, 강의자료
 - Lab: USA Patent Data Analysis - 강의영상
 - JSON 이해하기 - 강의영상, 강의자료
 - Lab: JSON Data Analysis - 강의영상
 
-### 14차: Data Handling Application
+### 15차: Data Handling Application
 - Lab: - 강의영상
 - Lab: - 강의영상
 - Lab: - 강의영상
 - Lab: - 강의영상
 
-### 15차: What is NEXT?
-- Warp Up, Pyhton!- 강의영상, 강의자료
-- NEXT - 강의영상, 강의자료
+### 16: Final Exams
 - Final Term Problem Set
 
 ## 참고자료
