@@ -56,14 +56,14 @@
 - Lab: Yesterday Letter Counter - [강의영상](https://www.youtube.com/watch?v=JOmWJQ1BlgM&index=14&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/xtswPq/EFk5T6)
 - Function Concept II - [강의영상](https://vimeo.com/181622471/3f1bbf8479), [강의자료](https://doc.co/JGpJSi/eRCeqh)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/181622470/56a56d3af5), [강의자료](https://doc.co/jMZDoF/eRCeqh)
-- Code Assignment: Baseball Game - 설명영상
+- Code Assignment: [Baseball Game](https://github.com/TeamLab/lab_for_gachon_cs50/blob/master/lab_9_baseball_game/lab_9_baseball_game.md) 
 
 ### 6주차: 자료 구조 (Data Structure)
-- 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/181622626/8b52be5c1c), [강의자료](https://docs.com/choi-sungchul/4133?c=EFk5T6)
-- Stack & Queue - [강의영상](https://vimeo.com/181622625/bf15043832), [강의자료](https://docs.com/choi-sungchul/1667/week-7-2-stack-queue?c=EFk5T6)
-- Tuple & Set - [강의영상](https://vimeo.com/184666895/851e1fcc9d), [강의자료](https://docs.com/choi-sungchul/8314/week-7-3-tuple-set?c=EFk5T6)
-- Dict (Dictionary) - [강의영상](https://www.youtube.com/watch?v=RUrudMlyNo8&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=19), [강의자료](https://docs.com/choi-sungchul/6063/week-7-4-data-structure?c=EFk5T6)
-- Lab: Command Counter - [강의영상](https://www.youtube.com/watch?v=CaxVjJ36I30&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=20)
+- 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/184667138/d0bc578a12), [강의자료](https://doc.co/zfqdQX/eRCeqh)
+- Stack & Queue - [강의영상](https://vimeo.com/184667140/f24a69f788), [강의자료](https://doc.co/AUucCS/eRCeqh)
+- Tuple & Set - [강의영상](https://vimeo.com/184666895/851e1fcc9d), [강의자료](https://doc.co/aKskV9/eRCeqh)
+- Dict (Dictionary) - [강의영상](https://www.youtube.com/watch?v=RUrudMlyNo8&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=19), [강의자료](https://doc.co/bEp5Ae/eRCeqh)
+- Lab: Command Counter - [강의영상](https://www.youtube.com/watch?v=CaxVjJ36I30&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=20), [강의자료](https://doc.co/v5vBq6/EFk5T6)
 - Assignment: Morse Code - 설명영상
 
 ### 7주차:  파이썬다운 코드 작성하기 (Pythonic Code)
