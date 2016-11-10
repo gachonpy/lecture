@@ -76,10 +76,10 @@
 ### 8주차: Midterm Brake
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
-- Objective-Oriented Programming Overview - 강의영상, [강의자료](https://doc.co/yXcRGm/eRCeqh)
-- Objects in Python - 강의영상, [강의자료](https://doc.co/U1782r/eRCeqh)
+- Objective-Oriented Programming Overview - [강의영상](https://youtu.be/wiB7rilUQgQ?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/yXcRGm/eRCeqh)
+- Objects in Python - [강의영상](https://youtu.be/UevYLsrJXSs?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/U1782r/eRCeqh)
 - Lab: Note and Notebook - 강의영상, 강의자료
-- OOP characteristics - 강의영상, [강의자료](https://doc.co/bFqNQT/eRCeqh)
+- OOP characteristics - [강의영상](https://youtu.be/Lvsc5r-HC_w?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/bFqNQT/eRCeqh)
 
 ### 10주차: 모듈과 패키지 (Module & Packages)
 - Overview - 강의영상, 강의자료
