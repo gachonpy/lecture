@@ -84,7 +84,7 @@
 ### 10주차: 모듈과 패키지 (Module & Packages)
 - Overview - [강의영상](https://www.youtube.com/watch?v=UFxNGcKdQZg&index=26&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/uJ7H6L/EFk5T6)
 - Modules - [강의영상](https://www.youtube.com/watch?v=9aKWmQ3d8sc&index=27&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/qNxUN1/EFk5T6)
-- Packages - [강의영상](https://vimeo.com/191268215/317f23b363), [강의자료](https://doc.co/hXxeLm/EFk5T6)
+- Packages - [강의영상](https://youtu.be/YiFTfqm-Y8Y?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/hXxeLm/EFk5T6)
 - 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/191484536/959538efe4), 강의자료
 
 ### 11주차: 예외 처리 (Exception Handling)
