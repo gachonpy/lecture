@@ -9,10 +9,10 @@
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistant
-* [장시온](https://github.com/janguck) (wayterren@gmail.com, 학부생연구원 at TeamLab)
-* [장예훈](https://github.com/YeHoonJang)(jangyh0420@gmail.com, 학부생)
-* [김지희](https://github.com/kjihee)(aszx1220@gmail.com, 학부생)
+* [장시온](https://github.com/janguck) (wayterren@gmail.com, 학부생연구원 at @TeamLab)
 * [김윤진](https://github.com/KimyoonJIn)(soosg270@gmail.com, 학부생)
+* [김지희](https://github.com/kjihee)(aszx1220@gmail.com, 학부생)
+* [장예훈](https://github.com/YeHoonJang)(jangyh0420@gmail.com, 학부생)
 
 ## 강의 구성
 ### 1주차: 프로그래밍과 파이썬
@@ -76,16 +76,16 @@
 ### 8주차: Midterm Brake
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
-- Objective-Oriented Programming Overview - [강의영상](https://youtu.be/wiB7rilUQgQ?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/yXcRGm/eRCeqh)
-- Objects in Python - [강의영상](https://youtu.be/UevYLsrJXSs?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/U1782r/eRCeqh)
-- Lab: Note and Notebook - 강의영상, 강의자료
-- OOP characteristics - [강의영상](https://youtu.be/Lvsc5r-HC_w?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/bFqNQT/eRCeqh)
+- Objective-Oriented Programming Overview - [강의영상](https://vimeo.com/192459194/bf6f7a99c8), [강의자료](https://doc.co/yXcRGm/EFk5T6)
+- Objects in Python - [강의영상](https://vimeo.com/192459183/81f98196fa), [강의자료](https://doc.co/U1782r/EFk5T6)
+- Lab: Note and Notebook - [강의영상](https://vimeo.com/192627174/5f3de78943), [강의자료](https://doc.co/DXWqj5/eRCeqh)
+- OOP characteristics - [강의영상](https://vimeo.com/192459205/330e424b9f), [강의자료](https://doc.co/bFqNQT/EFk5T6)
 
 ### 10주차: 모듈과 패키지 (Module & Packages)
-- Overview - [강의영상](https://www.youtube.com/watch?v=UFxNGcKdQZg&index=26&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/uJ7H6L/EFk5T6)
-- Modules - [강의영상](https://www.youtube.com/watch?v=9aKWmQ3d8sc&index=27&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/qNxUN1/EFk5T6)
-- Packages - [강의영상](https://youtu.be/YiFTfqm-Y8Y?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS), [강의자료](https://doc.co/hXxeLm/EFk5T6)
-- 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/191484536/959538efe4), 강의자료
+- Overview - [강의영상](https://vimeo.com/191267097/94ed2ec64f), [강의자료](https://doc.co/uJ7H6L/EFk5T6)
+- Modules - [강의영상](https://vimeo.com/191268214/f510344b5b), [강의자료](https://doc.co/qNxUN1/EFk5T6)
+- Packages - [강의영상](https://vimeo.com/191268215/317f23b363), [강의자료](https://doc.co/hXxeLm/EFk5T6)
+- 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/191484536/959538efe4), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 
 ### 11주차: 예외 처리 (Exception Handling)
 - Overview - [강의영상](https://vimeo.com/191340392/a341678aa6), [강의자료](https://doc.co/hyRaci/EFk5T6)
@@ -96,23 +96,23 @@
 - File Handling Overview - [강의영상](https://vimeo.com/191273680/92e675c6b4), [강의자료](https://doc.co/5XWkVi/EFk5T6)
 - File Handling - [강의영상](https://vimeo.com/191341638/bca983a4ff), [강의자료](https://doc.co/hYt3mx/EFk5T6)
 - Comma Separate Values  - [강의영상](https://vimeo.com/191590754/6bedf29084), [강의자료](https://doc.co/1PDdBj/EFk5T6)
+- CSV, Class Version - [강의영상](https://www.youtube.com/watch?v=wST0ut4D1yc&list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS&index=34)
 - Lab: CSV with Pandas - 강의영상, 강의자료
 
 ### 13주차: Web Scraping
 - Web 이해하기 - [강의영상](https://vimeo.com/191340154/d3522d205f), [강의자료](https://doc.co/WuDBwm/EFk5T6)
 - HTML 데이터 다루기 - [강의영상](https://vimeo.com/191340157/a0d1bd9d93), [강의자료](https://doc.co/5DcmMo/EFk5T6)
 - 정규 표현식: Regular Expression - [강의영상](https://vimeo.com/191340155/38d9dfbbcc), [강의자료](https://doc.co/5DcmMo/EFk5T6)
-- Lab: RegEx - 강의영상, 강의자료
+- Lab: RegEx - 강의영상, [강의자료](https://doc.co/xzfPXz/eRCeqh)
 
 ### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- XML 이해하기 - 강의영상, 강의자료
-- BeautifulSoup 다루기 - 강의영상, 강의자료
-- Lab: USA Patent Data Analysis - 강의영상
-- JSON 이해하기 - 강의영상, 강의자료
-- Lab: JSON Data Analysis - 강의영상
+- XML 이해하기 - [강의영상](https://vimeo.com/192626983/de209d3c6e), [강의자료](https://doc.co/XqDhAr/EFk5T6)
+- Lab: USA Patent Data Analysis - [강의영상](https://vimeo.com/192627250/8e3d827ef1), [강의자료](https://doc.co/xbHGTf/eRCeqh)
+- JSON 이해하기 - [강의영상](https://vimeo.com/193012159/54c563ddd7), [강의자료](https://doc.co/o91YzD/EFk5T6)
+- Lab: JSON Data Analysis - [강의영상](https://vimeo.com/193018697), [강의자료](https://doc.co/zxFwy2/eRCeqh)
 
-
-### 16: Final Exams
+### 15차: What is NEXT?
+- Warp Up, Pyhton!- [강의영상](https://vimeo.com/192626817/291f0b4310), 강의자료
 - Final Term Problem Set
 
 ## 참고자료
