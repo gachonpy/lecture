@@ -108,10 +108,16 @@ Gachon CS50: 웹 프로그래밍(w/Python)
         - Function - [강의자료](https://doc.co/CEeD4K/qj9tkx)
             - 생활코딩 강의 - [함수](https://opentutorials.org/course/743/4729)
     -  Client Side Java Script 
-        -  Event Handlding - [TO BE UPDATED]()
-        -  DOM Handling - [TO BE UPDATED]()
+        -  Java Script Overview for Cline Side - [강의자료](https://doc.co/ZS79Xh/qj9tkx)
+        -  Event Handlding - [강의자료](https://doc.co/UFK5Wy/qj9tkx)
+        -  DOM Handling - [강의자료](https://doc.co/Az5zrS/qj9tkx)
+    -  JQuery
+        -  JQuery Overview - [강의자료](https://doc.co/Zt7ebV/qj9tkx)
+        -  JQuery Syntax - [강의자료](https://doc.co/1GJqj1/qj9tkx)
+        -  JQuery Event - [강의자료](https://doc.co/mxPGga/qj9tkx)
 - Mission
     - [Codecademy Java Script](https://www.codecademy.com/learn/learn-javascript) 
+    - [Codecademy JQuery](https://www.codecademy.com/learn/jquery)
 - Resources
     - [Codecademy Java Script](https://www.codecademy.com/learn/javascript)
     - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
@@ -119,42 +125,40 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - [JS 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)(생활코딩, 2014)
     - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
 
-### 5주차: Bootstrap 
-- Reference Data
+### Chapter 5: Bootstrap 
+- 강의 컨텐츠
+    -  Bootstrap Overview - [강의자료](https://doc.co/ReAtCB/qj9tkx)
+    -  Basic Components- [강의자료](https://doc.co/murUQR/qj9tkx)
+    -  Grid System - [강의자료](https://doc.co/vmEuMK/qj9tkx)
+- Mission
+    - [Codecademy Java Script](https://www.codecademy.com/learn/make-a-website) 
+- Resources
     - [W3S Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp)
     - [Bootstrap 홈페이지](http://bootstrapk.com/)
 - [Bootstrap 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoSN5_-w06dk9P3pCZq1Qsw8)(웹학교, 2014)
 
-### 6주차: jQuery
-- Codecademy
-    - [jQuery](https://www.codecademy.com/learn/jquery)
-- Reference Data
-    - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
-- [jQuery 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoR_VtxvBsBW9n6w9O1GqqKk)(웹학교, 2014)
-
-### 7주차: 시스템 설계하기 & 아이디어 만들기
-- TBD
-
-### 8주차: 중간고사
-- TBD
-
-### 9주차: Database & MySQL
-- Databases 강의
+### Chapter 6: Database - MySQL
+- 강의 컨텐츠
+    -  Database Concept - [강의자료](https://doc.co/q6EuPF/qj9tkx)
+    -  ERD - [강의자료](https://doc.co/hYx7fQ/qj9tkx)
+- Mission
+    - [Codecademy SQL](https://www.codecademy.com/learn/learn-sql) 
+- Resources
     - [데이터베이스(MySQL)이론 1](https://www.youtube.com/watch?v=GKlUJkvLd6c)(생활코딩, 2015)
     - [데이터베이스(MySQL)이론 2](https://www.youtube.com/watch?v=W7lmchYciMk)(생활코딩, 2015)
     - [데이터베이스(MySQL)이론 3](https://www.youtube.com/watch?v=XhEBiOhXH7o)(생활코딩, 2015)
-- [MySQL 강의](https://www.youtube.com/playlist?list=PL79A3BAFA1DF178BF)(생활코딩,2012)
-- 아이디어톤
+    - [MySQL 강의](https://www.youtube.com/playlist?list=PL79A3BAFA1DF178BF)(생활코딩,2012)
 
-### 10주차: Django I
-- [Django Tutorial](http://tutorial.djangogirls.org/ko/)
-- [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
+### Chapter 7: Django
+- 강의 컨텐츠
+    -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx)
+    -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx)
+    -  template - [강의자료](https://doc.co/xvEkWi/qj9tkx)
 
-### 11주차: Django II
-- [Django 실습](https://www.youtube.com/watch?v=Fn2XMeRmwe4)(onecue Kim, 2015)
-
-### 12주차: Service Build
-- TBD
+- Resources
+    - [Django Tutorial](http://tutorial.djangogirls.org/ko/)
+    - [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
+    - [Django 실습](https://www.youtube.com/watch?v=Fn2XMeRmwe4)(onecue Kim, 2015)
 
 ### 13주차: 클라우드와 Amazone Web Service
 - [AWS 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)(생활코딩,2016)
@@ -167,7 +171,4 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 - TBD
 
 ### 16주차: Final Exam
-- TBD
-
-### 17주차: 해커톤
 - TBD
