@@ -151,9 +151,9 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 
 ### Chapter 7: Django
 - 강의 컨텐츠
-    -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx)
-    -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx)
-    -  template - [강의자료](https://doc.co/xvEkWi/qj9tkx)
+    -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx), [강의영상](https://www.youtube.com/watch?v=AMINyh-ihuQ&index=17&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&t=64s)
+    -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx), [강의영상](https://www.youtube.com/watch?v=dZCixFLwMsA&index=18&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Template I - [강의자료](https://doc.co/xvEkWi/qj9tkx), [강의영상](https://www.youtube.com/watch?v=DdeOYW4qJAA&index=19&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
 
 - Resources
     - [Django Tutorial](http://tutorial.djangogirls.org/ko/)
