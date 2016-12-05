@@ -157,7 +157,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     -  Template II - [강의자료](https://doc.co/DT5sjG/qj9tkx), 강의영상
     -  Template III - 강의자료, 강의영상
     -  Static Files - 강의자료, 강의영상
-    -  Form Data Transfer - [강의자료](https://doc.co/y56LuK/qj9tkx), 강의영상
+    -  Form Data Transfer - [강의자료](https://doc.co/y56LuK/qj9tkx), [강의영상](https://www.youtube.com/watch?v=24lROOuKBdM&index=20&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     
 - Resources
     - [Django Tutorial](http://tutorial.djangogirls.org/ko/)
