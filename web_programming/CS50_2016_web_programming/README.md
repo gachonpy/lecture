@@ -154,7 +154,11 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx), [강의영상](https://www.youtube.com/watch?v=AMINyh-ihuQ&index=17&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&t=64s)
     -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx), [강의영상](https://www.youtube.com/watch?v=dZCixFLwMsA&index=18&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Template I - [강의자료](https://doc.co/xvEkWi/qj9tkx), [강의영상](https://www.youtube.com/watch?v=DdeOYW4qJAA&index=19&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-
+    -  Template II - [강의자료](https://doc.co/DT5sjG/qj9tkx), 강의영상
+    -  Template III - 강의자료, 강의영상
+    -  Static Files - 강의자료, 강의영상
+    -  Form Data Transfer - [강의자료](https://doc.co/y56LuK/qj9tkx), 강의영상
+    
 - Resources
     - [Django Tutorial](http://tutorial.djangogirls.org/ko/)
     - [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
