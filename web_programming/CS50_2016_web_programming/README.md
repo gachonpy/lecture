@@ -92,7 +92,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - [생활코딩 CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)
 
 ### Chapter 4: 기초 웹 프로그래밍 II - Java Script
-- 강의 컨텐츠
+- 강의 컨텐츠 ([강의코드](code/js))
     -  Java Script Overview - [강의자료](https://doc.co/JdRfRo/qj9tkx)
         -  생활코딩 강의 - [언어소개](https://opentutorials.org/course/743/4650)
     -  [Node.JS 설치 on Windows](http://playgroundblog.tistory.com/146)
@@ -111,7 +111,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
         -  Java Script Overview for Cline Side - [강의자료](https://doc.co/ZS79Xh/qj9tkx)
         -  Event Handlding - [강의자료](https://doc.co/UFK5Wy/qj9tkx)
         -  DOM Handling - [강의자료](https://doc.co/Az5zrS/qj9tkx)
-    -  JQuery
+    -  JQuery ([강의코드](code/jquery))
         -  JQuery Overview - [강의자료](https://doc.co/Zt7ebV/qj9tkx)
         -  JQuery Syntax - [강의자료](https://doc.co/1GJqj1/qj9tkx)
         -  JQuery Event - [강의자료](https://doc.co/mxPGga/qj9tkx)
@@ -126,12 +126,13 @@ Gachon CS50: 웹 프로그래밍(w/Python)
     - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
 
 ### Chapter 5: Bootstrap 
-- 강의 컨텐츠
+- 강의 컨텐츠 ([강의코드](code/bootstrap))
     -  Bootstrap Overview - [강의자료](https://doc.co/ReAtCB/qj9tkx)
     -  Basic Components- [강의자료](https://doc.co/murUQR/qj9tkx)
     -  Grid System - [강의자료](https://doc.co/vmEuMK/qj9tkx)
 - Mission
-    - [Codecademy Java Script](https://www.codecademy.com/learn/make-a-website) 
+    - [Codecademy Make a Web Site](https://www.codecademy.com/learn/make-a-website) 
+ 
 - Resources
     - [W3S Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp)
     - [Bootstrap 홈페이지](http://bootstrapk.com/)
@@ -153,26 +154,28 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 - 강의 컨텐츠
     -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx), [강의영상](https://www.youtube.com/watch?v=AMINyh-ihuQ&index=17&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&t=64s)
     -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx), [강의영상](https://www.youtube.com/watch?v=dZCixFLwMsA&index=18&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Static Files - [강의영상]()
     -  Template I - [강의자료](https://doc.co/xvEkWi/qj9tkx), [강의영상](https://www.youtube.com/watch?v=DdeOYW4qJAA&index=19&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-    -  Template II - [강의자료](https://doc.co/DT5sjG/qj9tkx), 강의영상
-    -  Template III - 강의자료, 강의영상
-    -  Static Files - 강의자료, 강의영상
+    -  Template II - [강의자료](https://doc.co/DT5sjG/qj9tkx)
+    -  Template III - [강의자료](https://doc.co/oAs47i/qj9tkx)
     -  Form Data Transfer - [강의자료](https://doc.co/y56LuK/qj9tkx), [강의영상](https://www.youtube.com/watch?v=24lROOuKBdM&index=20&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-    
+    -  Model I - [강의자료](https://doc.co/aesY7t), [강의영상](https://www.youtube.com/watch?v=L3gnPvu5g08&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=21)
+    -  Session I - [강의자료](https://docs.com/choi-sungchul/3003/42-web-framework-session), [강의영상](https://youtu.be/Pj3eDPQl_wk)
+    -  Session II - [강의자료](), [강의영상]()
+    -  User Model(Registration) - [강의자료](), [강의영상](https://www.youtube.com/watch?v=JgqFWfXbOSo&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=24)
+    -  User Model(Login) - [강의자료](), [강의영상](https://www.youtube.com/watch?v=9gtAPwNExWY&index=25&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Model II(Comment) - [강의자료](https://doc.co/g1uGsE), [강의영상](https://www.youtube.com/watch?v=aMdnaq-ipqw&index=26&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Model II(Comment) - [강의자료](https://doc.co/g1uGsE), [강의영상](https://www.youtube.com/watch?v=sKzkbBJ6X5Q&index=27&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Admin - [강의자료](), [강의영상](https://www.youtube.com/watch?v=S72Zs0VRCGg&index=28&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Admin - [강의자료](), [강의영상]()
+    -  Data upload - [강의자료](https://doc.co/vTbdyn), [강의영상](https://www.youtube.com/watch?v=OKPG5OKjsBU&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=29)
+
 - Resources
     - [Django Tutorial](http://tutorial.djangogirls.org/ko/)
     - [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
     - [Django 실습](https://www.youtube.com/watch?v=Fn2XMeRmwe4)(onecue Kim, 2015)
 
-### 13주차: 클라우드와 Amazone Web Service
+### Chapter 8: Service on Cloud
 - [AWS 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)(생활코딩,2016)
-
-### 14주차: Service on Cloud
 - 클린 코드를 위한 테스트 주도 개발 8장 참고
 - 아마존 웹 서비스를 다루는 기술 4장 - 7장 참고
-
-### 15주차: Buffer Week
-- TBD
-
-### 16주차: Final Exam
-- TBD
