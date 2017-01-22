@@ -109,7 +109,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
             - 생활코딩 강의 - [함수](https://opentutorials.org/course/743/4729)
     -  Client Side Java Script 
         -  Java Script Overview for Cline Side - [강의자료](https://doc.co/ZS79Xh/qj9tkx), [강의영상](https://www.youtube.com/watch?v=eiWLqbHZ--Q&index=42&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-        -  Event Handlding - [강의자료](https://doc.co/UFK5Wy/qj9tkx), [강의영상]()
+        -  Event Handlding - [강의자료](https://doc.co/UFK5Wy/qj9tkx), [강의영상](https://www.youtube.com/watch?v=52ZE9Cz6DbA&index=24&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&t=1s)
         -  DOM Handling - [강의자료](https://doc.co/Az5zrS/qj9tkx), [강의영상](https://www.youtube.com/watch?v=GVT1ZK83gGg&index=21&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  JQuery ([강의코드](code/jquery))
         -  JQuery Overview - [강의자료](https://doc.co/Zt7ebV/qj9tkx), [강의영상](https://www.youtube.com/watch?v=EH-J0u2yKEc&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=24)
