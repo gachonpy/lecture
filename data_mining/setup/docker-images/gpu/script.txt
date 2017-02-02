@@ -1,0 +1,12 @@
+sudo cp cuda/include/cudnn.h /usr/local/cuda/include/
+sudo cp -a cuda/lib64/* /usr/local/cuda/lib64/
+
+echo 'export CUDA_ROOT=/usr/local/cuda' > ~/.bash_profile
+echo 'export PATH=/usr/local/cuda/bin:$PATH' >> ~/.bash_profile
+echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda/lib:$LD_LIBRARY_PATH' >> ~/.bash_profile
+echo 'export CPATH=/usr/local/cuda/include:$CPATH' >> ~/.bash_profile
+
+source ~/.bash_profile
+
+cd tensorflow/models/image/mnist
+python convolutional.py
