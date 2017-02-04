@@ -154,7 +154,7 @@ Gachon CS50: 웹 프로그래밍(w/Python)
 - 강의 컨텐츠
     -  Django Overview - [강의자료](https://doc.co/auekzP/qj9tkx), [강의영상](https://www.youtube.com/watch?v=AMINyh-ihuQ&index=17&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&t=64s)
     -  urls.py - [강의자료](https://doc.co/qRkKmQ/qj9tkx), [강의영상](https://www.youtube.com/watch?v=dZCixFLwMsA&index=18&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
-    -  Static Files - [강의영상]()
+    -  Static Files - [강의영상](https://www.youtube.com/watch?v=b_-zsBHBEZ8&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=45)
     -  Template I - [강의자료](https://doc.co/xvEkWi/qj9tkx), [강의영상](https://www.youtube.com/watch?v=DdeOYW4qJAA&index=19&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
     -  Template II - [강의자료](https://doc.co/DT5sjG/qj9tkx), [강의영상](https://www.youtube.com/watch?v=QkKYKLzf-7g&list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn&index=34)
     -  Template III - [강의자료](https://doc.co/oAs47i/qj9tkx)
