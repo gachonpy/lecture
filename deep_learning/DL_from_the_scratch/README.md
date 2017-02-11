@@ -1,5 +1,11 @@
 ## Keywords and Concepts
 
+### generative model
+- http://langrang.tistory.com/14
+
+- 즉, 보다 더 generalized된 접근법이 필요한데, 가장 formal하게 많이 쓰이는 decision criteria 중 하나로 loss function 혹은 cost function이 있다. Cost function은 여러가지로 정의할 수 있겠지만, 나는 Cost function을 이렇게 정의한다. 우리가 목표로 하는 가장 좋은 결과와 지금 내가 선택한 결과와의 차이. 
+
+
 ### 미니배치
 - MiniBatch를 사용할 때 이상적으로 이상적으로, 10 개의 클래스를 말하면, 미니 배치의 각 클래스에서 정확히 동일한 번호를 가진 10 개의 예제를 포함하는 것이 좋음
 - 미니 배치는 같은 수의 데이터가 같은 비율로 들어가 있는 것이 좋음
