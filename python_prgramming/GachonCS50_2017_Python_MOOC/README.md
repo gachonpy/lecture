@@ -71,8 +71,7 @@ Gachon CS50 2017 - Python MOOC
 - 사전 (Dictionary) - [강의영상](https://www.youtube.com/watch?v=HqFtXMZSGSI&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=32), [강의자료](https://docs.com/choi-sungchul/6063/week-7-4-data-structure?c=EFk5T6)
 - Lab: Command Counter - [강의영상](https://www.youtube.com/watch?v=gq09kwm5OMc&index=33&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz), [강의자료](https://doc.co/v5vBq6/EFk5T6)
 
-### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
-- 중간 고사
+### 8주차: 중간고사
 
 ### 9주차: 파이썬같은 코드 작성하기 (Pythonic Code)
 - Pythonic Code Overview - [강의영상](https://www.youtube.com/watch?v=uIcxHkapM7c&index=34&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&t=4s), [강의자료](https://docs.com/choi-sungchul/8538/week-8-1-pythonic-code-overview?c=EFk5T6)
