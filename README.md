@@ -3,7 +3,7 @@
 
 본 Repository는 가천대학교 산업경영공학과 TeamLab의 강의를 공유합니다. 
 TeamLab에서 운영중인, 그리고 앞으로 운영할 주요 강의는 아래와 같습니다.
-- [산업경영공학과 프로그래밍 입문 with Python](https://github.com/TeamLab/lecture/blob/master/python_prgramming/IME_2016_programming_intro/README.md)
+- [산업경영공학과 프로그래밍 입문 with Python](https://github.com/TeamLab/lecture/blob/master/python_prgramming/GachonCS50_2017_Python_MOOC/README.md)
 - [Gachon CS50: 웹 프로그래밍](https://github.com/TeamLab/lecture/tree/master/web_programming/CS50_2016_web_programming)
 
 또한 추가적으로 MOOC 강좌로 개설을 준비하고 있습니다.
