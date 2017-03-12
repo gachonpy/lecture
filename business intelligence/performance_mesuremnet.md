@@ -1,0 +1,7 @@
+- 분류행렬 또는 혼돈행렬
+    - 클래스 imbalance에 대한 고려가 필요함
+- Training Set, Validation Set, Test Set
+- 정확성 척도
+    - 오분류율
+    - 정확도(Accuracy)
+    - 

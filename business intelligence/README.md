@@ -6,7 +6,6 @@ Business Intelligence & Data Product
 * 강의자명: 가천대학교 산업경영공학과 최성철 교수
 * Email: teamlab.gachon@gmail.com
 
-
 ## 강의 구성
 ### 1주차: 데이터 과학과 비즈니스 인텔리전스
 
