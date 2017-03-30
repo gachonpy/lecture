@@ -10,6 +10,8 @@ Business Intelligence & Data Product
 ### 1주차: 데이터 과학과 비즈니스 인텔리전스
 
 ### 2주차: 데이터 분석 지표
+- Performance Metric Overview - [강의자료](https://docs.com/choi-sungchul/5713/performance-metric?c=oYsD6r), [강의영상](https://www.youtube.com/watch?v=20UBxkgCdqc&index=1&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS)
+- Confusion_Matrix - [강의자료](https://docs.com/choi-sungchul/1386/confusion-matrix?c=oYsD6r), [강의영상](https://www.youtube.com/watch?v=jwAgBDLS2Ec&index=2&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&t=4s)
 - Lab: 캐글 데이터 분석하기
 
 ### 3주차: 앙살블의 이해 및 구현
